@@ -11,6 +11,7 @@
     <modules>
         <module>mongo_java_demo</module>
         <module>mongo_spring_demo</module>
+        <module>mongo_springboot_template</module>
     </modules>
 
     <properties>

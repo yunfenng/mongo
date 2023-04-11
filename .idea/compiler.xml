@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mongo_spring_demo" />
+        <module name="mongo_springboot_template" />
         <module name="mongo_java_demo" />
       </profile>
     </annotationProcessing>
